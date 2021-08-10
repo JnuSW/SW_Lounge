@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SW_Lounge/static/css/main.8ed6999a.chunk.css",
+    "main.js": "/SW_Lounge/static/js/main.80716f1e.chunk.js",
+    "main.js.map": "/SW_Lounge/static/js/main.80716f1e.chunk.js.map",
+    "runtime-main.js": "/SW_Lounge/static/js/runtime-main.7a070308.js",
+    "runtime-main.js.map": "/SW_Lounge/static/js/runtime-main.7a070308.js.map",
+    "static/js/2.786d989c.chunk.js": "/SW_Lounge/static/js/2.786d989c.chunk.js",
+    "static/js/2.786d989c.chunk.js.map": "/SW_Lounge/static/js/2.786d989c.chunk.js.map",
+    "index.html": "/SW_Lounge/index.html",
+    "static/css/main.8ed6999a.chunk.css.map": "/SW_Lounge/static/css/main.8ed6999a.chunk.css.map",
+    "static/js/2.786d989c.chunk.js.LICENSE.txt": "/SW_Lounge/static/js/2.786d989c.chunk.js.LICENSE.txt",
+    "static/media/Lounge.46d26877.mp4": "/SW_Lounge/static/media/Lounge.46d26877.mp4",
+    "static/media/hamburger.f8d6c5c1.png": "/SW_Lounge/static/media/hamburger.f8d6c5c1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a070308.js",
+    "static/js/2.786d989c.chunk.js",
+    "static/css/main.8ed6999a.chunk.css",
+    "static/js/main.80716f1e.chunk.js"
+  ]
+}
