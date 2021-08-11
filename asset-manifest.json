@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/SW_Lounge/static/css/main.f9145b05.chunk.css",
-    "main.js": "/SW_Lounge/static/js/main.2a949f95.chunk.js",
-    "main.js.map": "/SW_Lounge/static/js/main.2a949f95.chunk.js.map",
+    "main.js": "/SW_Lounge/static/js/main.df9ebc25.chunk.js",
+    "main.js.map": "/SW_Lounge/static/js/main.df9ebc25.chunk.js.map",
     "runtime-main.js": "/SW_Lounge/static/js/runtime-main.7a070308.js",
     "runtime-main.js.map": "/SW_Lounge/static/js/runtime-main.7a070308.js.map",
     "static/js/2.5d0777b6.chunk.js": "/SW_Lounge/static/js/2.5d0777b6.chunk.js",
@@ -11,6 +11,7 @@
     "static/css/main.f9145b05.chunk.css.map": "/SW_Lounge/static/css/main.f9145b05.chunk.css.map",
     "static/js/2.5d0777b6.chunk.js.LICENSE.txt": "/SW_Lounge/static/js/2.5d0777b6.chunk.js.LICENSE.txt",
     "static/media/Lounge.bcdcdc34.webm": "/SW_Lounge/static/media/Lounge.bcdcdc34.webm",
+    "static/media/Lounge_Image.6d7e0e25.jpeg": "/SW_Lounge/static/media/Lounge_Image.6d7e0e25.jpeg",
     "static/media/hamburger.f8d6c5c1.png": "/SW_Lounge/static/media/hamburger.f8d6c5c1.png",
     "static/media/printer_Img.1e978221.png": "/SW_Lounge/static/media/printer_Img.1e978221.png"
   },
@@ -18,6 +19,6 @@
     "static/js/runtime-main.7a070308.js",
     "static/js/2.5d0777b6.chunk.js",
     "static/css/main.f9145b05.chunk.css",
-    "static/js/main.2a949f95.chunk.js"
+    "static/js/main.df9ebc25.chunk.js"
   ]
 }
